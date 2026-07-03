@@ -37,4 +37,4 @@ This project is an interactive Power BI dashboard that analyzes IPL data from 20
 
 ## 🎥 Demo Video
 
-A short demo video of the dashboard is included in this repository.
+[Watch Demo Video](Screen%20Recording%202026-06-29%20233326.mp4)
