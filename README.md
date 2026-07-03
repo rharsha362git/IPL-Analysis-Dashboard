@@ -31,7 +31,7 @@ This project is an interactive Power BI dashboard that analyzes IPL data from 20
 
 ## 📷 Dashboard Preview
 
-> Upload your dashboard screenshot here.
+![Dashboard](Screenshot%202026-06-29%20225006.png)
 
 ---
 
